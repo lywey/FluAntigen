@@ -1,4 +1,8 @@
-The dataset is organized into three subsets corresponding to the influenza A subtypes H3N2, H1N1, and influenza B. The influenza B subset includes data from two lineages: Yamagata and Victoria. These datasets are curated from research institutions and published sources, including:
+Markdown
+#FluAntigen
+The dataset is organized into three subsets corresponding to the influenza A subtypes H3N2, H1N1, and influenza B. The influenza B subset includes data from two lineages: Yamagata and Victoria. 
+#Data source
+These datasets are curated from research institutions and published sources, including:
 •	Annual/Interim Reports: From the WHO Collaborating Centre for Reference and Research on Influenza Crick Worldwide Influenza Centre, the Francis Crick Institute, covering the years 2003 to 2024.
 •	Weekly Epidemiological Records: A publication of the World Health Organization (WHO), covering the years 1965 to 2024.
 •	Influenza Virus Characterization Summary Europe: From the European Centre for Disease Prevention and Control (ECDC), covering the years 2010 to 2024.
