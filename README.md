@@ -2,6 +2,10 @@
 
 The dataset is organized into three subsets corresponding to the influenza A subtypes H3N2, H1N1, and influenza B. The influenza B subset includes data from two lineages: Yamagata and Victoria. 
 
+
+## Motivation
+Influenza viruses evolve quickly, requiring continuous evaluation of vaccine efficacy and strain antigenicity. Traditional methods, like hemagglutination inhibition assays, are labor-intensive and produce unstructured data across various sources. To address this, we developed Python scripts to extract and organize over 400,000 antigenicity records from global research, enabling more efficient computational analysis and predictive modeling.
+
 ## Data Sources
 
 These datasets are curated from research institutions and published sources, including:
