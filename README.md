@@ -4,7 +4,7 @@ The dataset is organized into three subsets corresponding to the influenza A sub
 
 
 ## Motivation
-Influenza viruses evolve quickly, requiring continuous evaluation of vaccine efficacy and strain antigenicity. Traditional methods, like hemagglutination inhibition assays, are labor-intensive and produce unstructured data across various sources. To address this, we developed Python scripts to extract and organize over 400,000 antigenicity records from global research, enabling more efficient computational analysis and predictive modeling.
+Influenza viruses evolve rapidly, necessitating continuous evaluation of vaccine efficacy and strain antigenicity. Currently, the results of hemagglutination inhibition assays are scattered as unstructured data across various sources. To support the application of machine learning, particularly deep learning, in advancing antigenic analysis and prediction models, we have extracted and organized over 400,000 antigenicity records from global research using Python scripts and manual processing.
 
 ## Data Sources
 
